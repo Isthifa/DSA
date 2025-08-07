@@ -17,114 +17,114 @@ Intervals
 Bit Manipulation
 Matrix
 Union Find (Disjoint Set)
-Practice Tips
+Practice Tips.<br>
 
-Two Pointers 👈👉
+Two Pointers 👈👉.<br>
 
-Two Sum
-Container With Most Water
-3Sum
-Remove Duplicates from Sorted Array
-Valid Palindrome
+Two Sum.<br>
+Container With Most Water.<br>
+3Sum.<br>
+Remove Duplicates from Sorted Array.<br>
+Valid Palindrome.<br>
 
 Sliding Window 🪟
 
-Longest Substring Without Repeating Characters
-Minimum Window Substring
-Best Time to Buy and Sell Stock
-Longest Repeating Character Replacement
+Longest Substring Without Repeating Characters.<br>
+Minimum Window Substring.<br>
+Best Time to Buy and Sell Stock.<br>
+Longest Repeating Character Replacement.<br>
 
-Binary Search 🔍
+Binary Search 🔍.<br>
 
-Search in Rotated Sorted Array
-Find Minimum in Rotated Sorted Array
-Median of Two Sorted Arrays
-Find First and Last Position of Element in Sorted Array
+Search in Rotated Sorted Array.<br>
+Find Minimum in Rotated Sorted Array.<br>
+Median of Two Sorted Arrays.<br>
+Find First and Last Position of Element in Sorted Array.<br>
 
-Fast and Slow Pointers 🐇🐢
+Fast and Slow Pointers 🐇🐢.<br>
 
-Linked List Cycle
-Find the Duplicate Number
-Remove Nth Node From End of List
-Reorder List
+Linked List Cycle.<br>
+Find the Duplicate Number.<br>
+Remove Nth Node From End of List.<br>
+Reorder List.<br>
 
-Depth-First Search (DFS) 🌳
+Depth-First Search (DFS) 🌳.<br>
 
-Number of Islands
-Validate Binary Search Tree
-Same Tree
-Binary Tree Maximum Path Sum
-Word Search
+Number of Islands.<br>
+Validate Binary Search Tree.<br>
+Same Tree.<br>
+Binary Tree Maximum Path Sum.<br>
+Word Search.<br>
 
-Breadth-First Search (BFS) 🌐
+Breadth-First Search (BFS) 🌐.<br>
 
-Binary Tree Level Order Traversal
-Word Ladder
-Clone Graph
-Course Schedule
+Binary Tree Level Order Traversal.<br>
+Word Ladder.<br>
+Clone Graph.<br>
+Course Schedule.<br>
 
-Dynamic Programming (DP) 📈
+Dynamic Programming (DP) 📈.<br>
 
-Climbing Stairs
-Coin Change
-Longest Increasing Subsequence
-House Robber
-Unique Paths
+Climbing Stairs.<br>
+Coin Change.<br>
+Longest Increasing Subsequence.<br>
+House Robber.<br>
+Unique Paths.<br>
 
-Greedy 💰
+Greedy 💰.<br>
 
-Jump Game
-Jump Game II
-Best Time to Buy and Sell Stock II
-Partition Labels
+Jump Game.<br>
+Jump Game II.<br>
+Best Time to Buy and Sell Stock II.<br>
+Partition Labels.<br>
 
-Backtracking 🔙
+Backtracking 🔙.<br>
 
-Combination Sum
-Permutations
-Subsets
-Word Search II
-N-Queens
+Combination Sum.<br>
+Permutations.<br>
+Subsets.<br>
+Word Search II.<br>
+N-Queens.<br>
 
-Heap/Priority Queue 📊
+Heap/Priority Queue 📊.<br>
 
-Merge K Sorted Lists
-Top K Frequent Elements
-Kth Largest Element in an Array
-Find Median from Data Stream
+Merge K Sorted Lists.<br>
+Top K Frequent Elements.<br>
+Kth Largest Element in an Array.<br>
+Find Median from Data Stream.<br>
 
-Trie (Prefix Tree) 🌿
+Trie (Prefix Tree) 🌿.<br>
 
-Implement Trie
-Add and Search Word
-Word Search II
+Implement Trie.<br>
+Add and Search Word.<br>
+Word Search II.<br>
 
-Intervals 🕒
+Intervals 🕒.<br>
 
-Merge Intervals
-Non-overlapping Intervals
-Meeting Rooms II
-Insert Interval
+Merge Intervals.<br>
+Non-overlapping Intervals.<br>
+Meeting Rooms II.<br>
+Insert Interval.<br>
 
-Bit Manipulation 🔢
+Bit Manipulation 🔢.<br>
 
-Single Number
-Number of 1 Bits
-Missing Number
-Sum of Two Integers
+Single Number.<br>
+Number of 1 Bits.<br>
+Missing Number.<br>
+Sum of Two Integers.<br>
 
-Matrix 🗳️
+Matrix 🗳️.<br>
 
-Spiral Matrix
-Rotate Image
-Set Matrix Zeroes
-Number of Islands
+Spiral Matrix.<br>
+Rotate Image.<br>
+Set Matrix Zeroes.<br>
+Number of Islands.<br>
 
-Union Find (Disjoint Set) 🤝
+Union Find (Disjoint Set) 🤝.<br>
 
-Number of Islands
-Graph Valid Tree
-Redundant Connection
+Number of Islands.<br>
+Graph Valid Tree.<br>
+Redundant Connection.<br>
 
 Practice Tips 💡
 
